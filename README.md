@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center" style="color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">A Passionate Frontend Developer from Sukkur, Pakistan</h3>
+<h3 align="center" style="color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">A Passionate Frontend Developer from Sukkur IBA University, Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asgharjan964&label=Profile%20views&color=ff69b4&style=flat" alt="asgharjan964" />
@@ -17,7 +17,6 @@
 - 🔭 Currently working on **EduVibe Website**  
 - 🌱 Learning **Machine Learning & Data Science**  
 - 👯 Looking to collaborate on **Python Projects**  
-- 📫 Reach me at **asgharjan964@gmail.com**  
 - ⚡ Fun fact: *I’m a straightforward person with big dreams.*
 
 ---
