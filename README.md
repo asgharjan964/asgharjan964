@@ -47,6 +47,5 @@
   <a href="https://kaggle.com/aliasgharmahar" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628867-3030003.png" height="40"/></a>
   <a href="https://www.facebook.com/asgharjan964" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40"/></a>
   <a href="https://www.instagram.com/aesthetic._.asghar/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40"/></a>
-  <a href="https://www.youtube.com/c/asghajan964" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40"/></a>
   <a href="https://wa.me/923053361964" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40"/></a>
 </p>
